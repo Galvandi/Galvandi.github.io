@@ -1,3 +1,9 @@
 [submodule "breakout-game"]
 	path = breakout-game
 	url = https://github.com/Galvandi/breakout-game
+[submodule "exercise-instagram-clone"]
+	path = exercise-instagram-clone
+	url = https://github.com/Galvandi/exercise-instagram-clone
+[submodule "exercise-google-clone"]
+	path = exercise-google-clone
+	url = https://github.com/Galvandi/exercise-google-clone
