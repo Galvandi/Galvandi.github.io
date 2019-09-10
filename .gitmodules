@@ -7,6 +7,3 @@
 [submodule "exercise-google-clone"]
 	path = exercise-google-clone
 	url = https://github.com/Galvandi/exercise-google-clone
-[submodule "online-resume"]
-	path = online-resume
-	url = https://github.com/andreas-schoch/online-resume
