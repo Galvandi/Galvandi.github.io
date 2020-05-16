@@ -10,3 +10,6 @@
 [submodule "online-resume"]
 	path = online-resume
 	url = https://github.com/andreas-schoch/online-resume
+[submodule "p2p-test-plugin"]
+	path = p2p-test-plugin
+	url = https://github.com/derpmasters/p2p-test-plugin
