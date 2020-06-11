@@ -13,3 +13,6 @@
 [submodule "p2p-test-plugin"]
 	path = p2p-test-plugin
 	url = https://github.com/derpmasters/p2p-test-plugin
+[submodule "quackamole-plugin-paint"]
+	path = quackamole-plugin-paint
+	url = https://github.com/derpmasters/quackamole-plugin-paint
