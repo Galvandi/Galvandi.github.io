@@ -16,3 +16,6 @@
 [submodule "quackamole-plugin-paint"]
 	path = quackamole-plugin-paint
 	url = https://github.com/derpmasters/quackamole-plugin-paint
+[submodule "quackamole-plugin-gomoku"]
+	path = quackamole-plugin-gomoku
+	url = https://github.com/derpmasters/quackamole-plugin-gomoku
