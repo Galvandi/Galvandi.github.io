@@ -19,3 +19,6 @@
 [submodule "quackamole-plugin-gomoku"]
 	path = quackamole-plugin-gomoku
 	url = https://github.com/derpmasters/quackamole-plugin-gomoku
+[submodule "quackamole-plugin-2d-topdown-shooter"]
+	path = quackamole-plugin-2d-topdown-shooter
+	url = https://github.com/derpmasters/quackamole-plugin-2d-topdown-shooter
