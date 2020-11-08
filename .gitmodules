@@ -22,3 +22,6 @@
 [submodule "quackamole-plugin-2d-topdown-shooter"]
 	path = quackamole-plugin-2d-topdown-shooter
 	url = https://github.com/derpmasters/quackamole-plugin-2d-topdown-shooter
+[submodule "speech-to-text-experiment"]
+	path = speech-to-text-experiment
+	url = https://github.com/andreas-schoch/speech-to-text-experiment
