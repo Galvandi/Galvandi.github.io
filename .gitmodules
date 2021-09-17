@@ -25,3 +25,6 @@
 [submodule "speech-to-text-experiment"]
 	path = speech-to-text-experiment
 	url = https://github.com/andreas-schoch/speech-to-text-experiment
+[submodule "marching-squares-world"]
+	path = marching-squares-world
+	url = https://github.com/andreas-schoch/marching-squares-world
